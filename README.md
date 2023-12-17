@@ -1,5 +1,3 @@
-Certainly! Here's a README template for your Python Tkinter application:
-
 ---
 
 # Student Registration System (CRUD MATRIX) using Tkinter and MySQL
